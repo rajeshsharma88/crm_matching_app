@@ -1,0 +1,8 @@
+{
+  "name": "Lead Reconciliation & CRM Audit System",
+  "description": "An intelligent mismatch cross-referencer comparing Meta Lead Ads and CRM databases using masking similarity matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
